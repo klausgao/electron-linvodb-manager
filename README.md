@@ -3,6 +3,15 @@ a electron-based, to manage leveldb and leveldb-based database and linvodb3 desk
 
 it can CRUD a leveldb.
 
+how to use? just download links and unzip the folder, run electron-linvodb-manager.exe.
+I only compile a win32 version.
+
+[electron-linvodb-manager-win32-ia32.7z.001](https://github.com/klausgao/electron-linvodb-manager/raw/master/electron-linvodb-manager-win32-ia32.7z.001)
+
+[electron-linvodb-manager-win32-ia32.7z.002](https://github.com/klausgao/electron-linvodb-manager/raw/master/electron-linvodb-manager-win32-ia32.7z.002)
+
+[electron-linvodb-manager-win32-ia32.7z.003](https://github.com/klausgao/electron-linvodb-manager/raw/master/electron-linvodb-manager-win32-ia32.7z.003)
+
 some previews are below:
 
 ![preview1](https://github.com/klausgao/electron-linvodb-manager/raw/master/1.jpg)
