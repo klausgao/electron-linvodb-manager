@@ -39,3 +39,4 @@ some previews are below:
 ![preview3](https://github.com/klausgao/electron-linvodb-manager/raw/master/3.jpg)
 ![preview4](https://github.com/klausgao/electron-linvodb-manager/raw/master/4.jpg)
 ![preview5](https://github.com/klausgao/electron-linvodb-manager/raw/master/5.jpg)
+![preview6](https://github.com/klausgao/electron-linvodb-manager/raw/master/6.jpg)
